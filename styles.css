@@ -1,0 +1,8 @@
+div{
+    background-color: blueviolet;
+    width: 60px;
+    margin-top: 10px;
+    height: 37px;
+    display: flex;
+    align-items: center;
+}
